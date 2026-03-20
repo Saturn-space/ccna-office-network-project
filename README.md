@@ -1,26 +1,32 @@
-# Office Network Design (CCNA Project)
+# 🖧 CCNA Office Network Project
 
-## 📌 Project Overview
-This project demonstrates the design and implementation of a small office network using VLANs and DHCP in Cisco Packet Tracer.
+## 📌 Overview
+This project demonstrates the design and implementation of a small office network using Cisco Packet Tracer.
 
-## 🧠 Key Features
+## 🧠 Features
 - VLAN segmentation (HR, IT, Sales)
-- Inter-VLAN routing using Router-on-a-Stick
+- Inter-VLAN Routing (Router-on-a-Stick)
 - DHCP configuration for automatic IP assignment
-- Network connectivity testing using ping
+- Successful connectivity testing using ping
 
 ## 🏗️ Network Design
 - 1 Router
 - 1 Switch
-- Multiple PCs across different departments
+- Multiple PCs across departments
 
-## 🔧 Technologies Used
+## ⚙️ Technologies Used
 - Cisco Packet Tracer
-- Networking concepts (VLAN, DHCP, Routing)
+- VLAN
+- DHCP
+- Routing
 
-## ✅ Outcome
-Successfully established communication between different VLANs and verified network connectivity.
+## 📸 Project Screenshot
+(Add your network topology image here)
+
+## ✅ Result
+All devices successfully communicate across VLANs using inter-VLAN routing.
 
 ## 🚀 Future Improvements
-- Add network security (ACLs)
-- Implement dynamic routing (OSPF/RIP)
+- Add ACL (Access Control Lists)
+- Implement OSPF routing
+- Add network security features
