@@ -48,9 +48,9 @@ These projects demonstrate my understanding of networking concepts such as VLANs
 ---
 
 ## 📸 Screenshots
-<img width="1002" height="569" alt="Topology" src="https://github.com/user-attachments/assets/7bc40863-9caa-4c9d-be8c-3ec406b8ea67" />
-<img width="704" height="457" alt="Topology" src="https://github.com/user-attachments/assets/21f1d506-20d4-4e8e-8ae8-df96f2e018d1" />
-<img width="1003" height="674" alt="Topology" src="https://github.com/user-attachments/assets/0ef23fa1-751a-46f7-9b04-c376c236fc0a" />
+<img width="700" height="450" alt="Topology" src="https://github.com/user-attachments/assets/7bc40863-9caa-4c9d-be8c-3ec406b8ea67" />
+<img width="700" height="450" alt="Topology" src="https://github.com/user-attachments/assets/21f1d506-20d4-4e8e-8ae8-df96f2e018d1" />
+<img width="700" height="450" alt="Topology" src="https://github.com/user-attachments/assets/0ef23fa1-751a-46f7-9b04-c376c236fc0a" />
 
 ---
 
