@@ -65,7 +65,7 @@ These projects helped me strengthen both my theoretical and practical understand
 ---
 
 ## 👨‍💻 Author
-[Your Name]
+Mohan Prasad
 
 ---
 
